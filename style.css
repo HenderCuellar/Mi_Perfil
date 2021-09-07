@@ -1,0 +1,52 @@
+body{
+  background-color: rgb(88, 241, 147);
+  font-family: monospace;
+  font-size: 17px;
+  font-weight: lighter;
+
+}
+h1{
+  color: #01D28E;
+}
+h2{
+  color: #28ABB9;}
+p{
+  padding: 20px;
+}
+.completo{
+  margin: 40px 150px;
+  }
+.principal{
+  background-color: azure;
+  padding: 40px;
+  box-shadow: 0px 10px 30px black;
+  margin: 20px 40px;
+  text-align: center;
+}
+.icono {
+  list-style: none;
+  padding-left: 0px;
+  }
+.icono li{
+  display: inline;
+  font-size: 40px;
+  padding: 0px 10px;
+}
+
+li a:hover{
+  color: rgb(18, 14, 235);
+}
+
+ul li a{
+  color: rgb(20, 21, 22);
+}
+.foto{
+  border-radius: 50%;
+}
+.boton-in{
+  background-color: #2D6187;
+  padding: 15px 20px;
+  color: aliceblue;
+  text-decoration: none;
+  border-radius: 20px;
+}
